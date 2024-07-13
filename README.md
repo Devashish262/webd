@@ -1,2 +1,2 @@
 # webd
-This is my first repository as a test 
+This is my first repository as a test.
